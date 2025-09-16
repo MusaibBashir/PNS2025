@@ -9,7 +9,7 @@ Descriptive, formatted solutions to assignments of Probability & Statistics(MA20
 
 New solutions will be uploaded within one week of receiving the assignment.
 
-<a href="https://drive.google.com/file/d/1PfCYo60QfboOYvaXRBDnoQuLrWjC2Mht/view?usp=drive_link" download> Download the full book (PDF)</a>
+<a href="https://drive.google.com/file/d/1-lydOYsXYJiMezCjyJIHXsaP0TeLCAKV/view?usp=drive_link" Download the full book (PDF)</a>
 
 For any queries [ Mail me](mailto:yourname@example.com?subject=Regarding%20your%20PNS%20solutions&body=Hello%20Musaib,)
 
