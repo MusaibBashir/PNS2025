@@ -3,14 +3,13 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to My Book 📘
+# PNS Assignment Solutions
 
-This is the homepage. Use the sidebar to navigate.
+Descriptive, formatted solutions to assignments of Probability & Statistics(MA20205) Autumn 2025.
 
-Example inline math: $E=mc^2$
+New solutions will be uploaded within one week of receiving the assignment.
 
-Example block:
+For any queries mail me at musaibbashir.24@kgpian.iitkgp.ac.in
 
-$$
-\int_0^\infty e^{-x^2}\, dx = \frac{\sqrt{\pi}}{2}
-$$
+Did this help you? Say thanks by donating at:
+![UPI ID: muse@sbi](upiqr.png)
