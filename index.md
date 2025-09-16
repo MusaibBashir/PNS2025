@@ -6,6 +6,7 @@ nav_order: 1
 # PNS Assignment Solutions
 
 Descriptive, formatted solutions to assignments of Probability & Statistics(MA20205) Autumn 2025.
+For assignment wise solutions, click the top menu icon and choose the assignment
 
 New solutions will be uploaded within one week of receiving the assignment.
 
