@@ -1,0 +1,9 @@
+title: "PNS Solutions 2025"
+description: "Descriptive Solutions to Assignments of Probability & Statistics (MA20205) - Autumn 2025"
+theme: minima 
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    disable: true
