@@ -9,7 +9,10 @@ Descriptive, formatted solutions to assignments of Probability & Statistics(MA20
 
 New solutions will be uploaded within one week of receiving the assignment.
 
-For any queries mail me at musaibbashir.24@kgpian.iitkgp.ac.in
+<a href="solutions.pdf" download> Download the full book (PDF)</a>
+
+For any queries [ Mail me](mailto:yourname@example.com?subject=Regarding%20your%20PNS%20solutions&body=Hello%20Musaib,)
+
 
 Did this help you? Say thanks by donating at:
 UPI ID: muse@sbi
