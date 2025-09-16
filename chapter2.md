@@ -320,10 +320,7 @@ $V(d=1/4) = \frac{20 - 8(1/4) - 81(1/4)^2}{16} = \frac{20-2-81/16}{16} = \frac{1
 The vertex of the parabola $ad^2+bd+c$ is at $d=-b/2a$. Here,
 $a=-81, b=-8$. Vertex at $d=-(-8)/(2 \cdot -81) = -4/81$. This is within
 our valid range. This point corresponds to a maximum. Therefore, the
-minimum must be at one of the endpoints. Comparing the values, the
-variance is smaller when $d=-1/3$. There seems to be an error in the
-provided solution key; the minimum occurs at an endpoint, not the value
-given. Let's recheck the calculation of $V(d=1/4)$.
+minimum must be at one of the endpoints. Comparing the values:
 $V(1/4) = (20-2-81/16)/16 = (18 - 5.0625)/16 = 12.9375/16 \approx 0.808$.
 $V(-1/3) = 41/48 \approx 0.854$. The minimum is indeed at $d=1/4$.
 $$\boxed{ \text{Valid d is } [-\frac{1}{3}, \frac{1}{4}], \text{ Variance is minimized at } d=\frac{1}{4} }$$
