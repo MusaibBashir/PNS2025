@@ -12,4 +12,7 @@ New solutions will be uploaded within one week of receiving the assignment.
 For any queries mail me at musaibbashir.24@kgpian.iitkgp.ac.in
 
 Did this help you? Say thanks by donating at:
-![UPI ID: muse@sbi](upiqr.jpg)
+UPI ID: muse@sbi
+<p align="center">
+  <img src="images/upiqr.jpg" alt="upi-qr" width="500"/>
+</p>
