@@ -1,20 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <title>{{ page.title }} - {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | relative_url }}">
 </head>
 <body>
-
-  <header>
-    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
-    <p>{{ site.description }}</p>
-  </header>
-
-  <main>
-    {{ content }}
-  </main>
+  {{ content }}
 
   <script type="text/javascript"
     id="MathJax-script"
