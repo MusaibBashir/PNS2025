@@ -6,7 +6,7 @@ nav_order: 7
 ![Distributions](distributions.png)
 
 
-Relationships Between Distributions {#relationships-between-distributions .unnumbered}
+Relationships Between Distributions
 ===================================
 
 -   **Binomial $\to$ Poisson:** If $n$ is large and $p$ is small such
