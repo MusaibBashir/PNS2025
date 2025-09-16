@@ -14,7 +14,7 @@ New solutions will be uploaded within one week of receiving the assignment.
   Download the full book (PDF)
 </a>
 
-For any queries [ Mail me](mailto:yourname@example.com?subject=Regarding%20your%20PNS%20solutions&body=Hello%20Musaib,)
+For any queries [ Mail me](mailto:musaibbashir.24@kgpian.iitkgp.ac.in?subject=Regarding%20your%20PNS%20solutions&body=Hello%20Musaib,)
 
 
 Did this help you? Say thanks by donating at:
