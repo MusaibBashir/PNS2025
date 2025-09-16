@@ -3,6 +3,14 @@ title: Home
 nav_order: 1
 ---
 
-# PNS Autumn 2025 Assignment Solutions
+# Welcome to My Book 📘
 
-Empty for now
+This is the homepage. Use the sidebar to navigate.
+
+Example inline math: $E=mc^2$
+
+Example block:
+
+$$
+\int_0^\infty e^{-x^2}\, dx = \frac{\sqrt{\pi}}{2}
+$$

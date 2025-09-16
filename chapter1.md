@@ -1,3 +1,8 @@
+---
+title: Assignment 1
+nav_order: 2
+---
+
 Question 1
 ==========
 
