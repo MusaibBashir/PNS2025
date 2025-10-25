@@ -10,7 +10,7 @@ For assignment wise solutions, click the top menu icon and choose the assignment
 
 New solutions will be uploaded within one week of receiving the assignment.
 
-<a href="https://drive.google.com/file/d/1InJWKXmkKOkOy4FVKxUCcJ8n471WcsRB/view?usp=drive_link">
+<a href="https://drive.google.com/drive/folders/1ssJy57xG1Hc28tP_DV_BWZO5aumxynhj?usp=sharing">
   Download the full book (PDF)
 </a>
 
@@ -20,3 +20,5 @@ For any queries [ Mail me](mailto:musaibbashir.24@kgpian.iitkgp.ac.in?subject=Re
 Did this help you? Say thanks by donating at:
 UPI ID: muse@sbi
 ![upi qr](upiqr.jpg)
+
+###© Musaib Bin Bashir 2025
