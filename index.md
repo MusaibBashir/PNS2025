@@ -21,4 +21,4 @@ Did this help you? Say thanks by donating at:
 UPI ID: muse@sbi
 ![upi qr](upiqr.jpg)
 
-###© Musaib Bin Bashir 2025
+### © Musaib Bin Bashir 2025
