@@ -1,6 +1,6 @@
 ---
 title: Distributions
-nav_order: 7
+nav_order: 8
 ---
 
 ![Distributions](distributions.png)
